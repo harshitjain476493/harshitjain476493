@@ -1,4 +1,4 @@
-# Hi, I'm Harshit Jain 👋
+#                                                       Hi, I'm Harshit Jain 👋
 
 **Software Developer | Java & Full Stack | Cloud & AI-Enabled Systems**
 
@@ -10,7 +10,7 @@ Crafting **scalable backend architectures, robust APIs, and full-stack solutions
 
 With a strong foundation in **Java, Python, JavaScript**, and cloud technologies, I specialize in designing and maintaining enterprise-grade applications. I'm passionate about writing clean, modular code and building systems that scale — whether it's optimizing database queries by 40%, automating CI/CD pipelines with Jenkins, or integrating AI-powered features into production systems.
 
-- 🎓 **B.E. Computer Science** from IET DAVV, Indore (CGPA: 9.03)
+- 🎓 **B.E. Computer Science** from IET DAVV, Indore (CGPA: 9.12)
 - 🏆 **250+ DSA problems** solved | LeetCode Rating: 1565
 - 🚀 **Top 25** — Summer Analytics Challenge, IIT Guwahati
 - 🛠️ **Full SDLC ownership** — from design to production deployment
