@@ -17,6 +17,14 @@ With a strong foundation in **Java, Python, JavaScript**, and cloud technologies
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitjain476493/harshitjain476493/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshitjain476493/harshitjain476493/output/github-snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/harshitjain476493/harshitjain476493/output/github-snake-light.svg">
+</picture>
+
+---
+
 ## 🎯 Featured Projects
 
 <table>
